@@ -35,5 +35,7 @@ case '/':
 
 }
 
+cout << "The answer to addition is: " << endl;
+
 
 }
